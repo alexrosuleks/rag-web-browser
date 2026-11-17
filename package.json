@@ -1,0 +1,20 @@
+{
+  "name": "rag-web-browser",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RAG Web Browser: Web browser for AI agents and RAG pipelines: search Google, fetch the top result pages, and return clean Markdown or text ready for LLMs. Also accepts a single URL.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "google"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}

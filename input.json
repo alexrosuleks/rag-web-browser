@@ -1,0 +1,9 @@
+{
+  "query": "https://en.wikipedia.org/wiki/Retrieval-augmented_generation",
+  "maxResults": 5,
+  "removeElementsCssSelector": "nav, footer, script, style, noscript, svg, img[src^='data:'],\n[role=\"alert\"],\n[role=\"banner\"],\n[role=\"dialog\"],\n[role=\"alertdialog\"],\n[role=\"region\"][aria-label*=\"skip\" i],\n[aria-modal=\"true\"]",
+  "proxyConfiguration": {
+    "useScrapelyProxy": true
+  },
+  "htmlTransformer": "none"
+}
